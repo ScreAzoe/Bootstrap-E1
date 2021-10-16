@@ -39,3 +39,11 @@
 .navbar-dark{
  background-color: rgba(140, 248, 194, 0.904);   
 }
+
+.tab-content{
+    border-left: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
